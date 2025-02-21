@@ -1,0 +1,58 @@
+.banner {
+  background: url("https://scontent.fsgn24-2.fna.fbcdn.net/v/t39.30808-6/476632738_2541777936027914_5821970835558487108_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeELJ_6plGsHA2UiR-KrT0CTrL-QMeBXAd2sv5Ax4FcB3ZOEBY4NtljhpNpIHF0oT4gCPWLR2ogrQPkLQEl7Cowi&_nc_ohc=sGKGM0hIPdAQ7kNvgE5HBPD&_nc_oc=AdjcXCL2yudsKMmWOIixm9QDsNONMKf9WeeXIfos55sA7Vxbdu47d_UmKA4ONm7aaCQ&_nc_zt=23&_nc_ht=scontent.fsgn24-2.fna&_nc_gid=ABINgWy0VDM-64EF3ZMlEDO&oh=00_AYCqjUnL-sP4tFtb6ySPl7Smt__7zqRVBSLRREn-EP4Zgg&oe=67BE6538")
+    no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+  text-align: center !important;
+  color: rgb(0, 255, 242) !important;
+}
+.slogan {
+  background-color: rgb(25, 243, 98) !important;
+  text-align: center !important;
+  width: 100%;
+  padding-right: 0.5rem;
+  padding-left: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -1;
+  max-width: 100%;
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
+.block_3 {
+  flex: 0 0 auto;
+  width: 33.33333333%;
+}
+.block_3 a {
+  text-decoration: none;
+  color: white;
+}
+.content {
+  background-color: white !important;
+  text-align: center !important;
+  width: 100%;
+  padding-right: 0.5rem;
+  padding-left: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.block_2 {
+  flex: 0 0 auto;
+  width: 50%;
+}
+.footer {
+  background-color: black !important;
+  text-align: center !important;
+  color: white;
+  width: 100%;
+  padding-top: 1rem;
+}
+.footer a:hover {
+  color: red;
+}
